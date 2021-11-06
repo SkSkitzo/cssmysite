@@ -267,7 +267,7 @@ transition: 0.5s;
 {
   width: 80%;
   margin: 100px auto;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(images/banner2.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(images/background.jpg);
   text-align: center;
   background-size: cover;
   border-radius: 10px;
